@@ -94,3 +94,5 @@ heap.insert(12)
 heap.insert(55)
 
 console.log(heap.extractMax())
+console.log(heap.extractMax())
+console.log(heap.extractMax())
